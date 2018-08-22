@@ -59,6 +59,10 @@ article {
 
 /* New css properties assignment changes. */
 
+a:hover {
+  color: #008392;
+}
+
 a {
   text-decoration: none;
   color: #fccd42;
